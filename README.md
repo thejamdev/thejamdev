@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cesar</h1>
+<h1 align="center">Hi 👋, I'm Cesar David</h1>
 <h3 align="center">A Front End Developer Focused on Next.js and Tailwind.css</h3>
 
 - 🔭 I’m currently working on [Ableton Remake with Next.js](https://github.com/thejamdev/ableton-remake)
